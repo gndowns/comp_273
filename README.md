@@ -1,2 +1,4 @@
 # comp_273
-Assembly Class at McGill
+Simple MIPS calculator using MARS memory mapped I/O simulation.
+
+Part of McGill Comp 273 Systems class assignment.
